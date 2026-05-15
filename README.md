@@ -4,11 +4,14 @@
 This project implements lazy page allocation (demand paging) in xv6-riscv.
 
 ## Team Members
-- **Member 1**: Memory Management Lead - `riscv.h`, `defs.h`
-- **Member 2**: System Call Expert - `sysproc.c`  
-- **Member 3**: Trap Handler Expert - `trap.c`
-- **Member 4**: VM Layer Specialist - `vm.c`
-- **Member 5**: Testing & Integration - `lazytest.c`, `Makefile`
+
+| Name | ID | Task | Files |
+|------|----|------|-------|
+| Mazen Ahmed | 231001075 | VM Core Functions, Integration | `riscv.h`, `defs.h`, `vm.c → uvmunmap()` |
+| Rodina Ahmed | 231002758 | System Call Expert | `sysproc.c` |
+| Ayten Hassan | 231001283 | Trap Handler Expert | `trap.c` |
+| Ahmed Hany | 231001623 | VM Layer Specialist | `vm.c` |
+| Karim Ahmed | 231001537 | Testing | `lazytest.c`, `Makefile` |
 
 ## Quick Start
 ```bash

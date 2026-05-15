@@ -1,0 +1,1 @@
+**Kernel Folder** contains ALL kernel-level files (`vm.c`, `trap.c`, `sysproc.c`, `riscv.h`, `defs.h`) after your changes - this is the "whole" environment you modified.

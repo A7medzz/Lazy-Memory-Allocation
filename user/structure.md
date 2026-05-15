@@ -1,0 +1,1 @@
+**User Folder** contains ALL user-level files (`lazytest.c`, `minitest.c`, `lazy_viz.c`) after your changes - this is for testing your lazy allocation from userspace.

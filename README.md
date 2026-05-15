@@ -1,5 +1,4 @@
-# Lazy-Memory-Allocation
-# xv6 Lazy Page Allocation
+# xv6 Lazy-Memory-Allocation
 
 ## Overview
 This project implements lazy page allocation (demand paging) in xv6-riscv.
